@@ -34,7 +34,7 @@ function DeleteList({ DeleteIsOpen, DeleteIsClose, list, listItem, isDelete }) {
 			<Modal>
 				<div className="deleteList">
 					<div className="deleteList__messagem">
-						<h1>Deseja relamente deletar esse item?</h1>
+						<h1>Deseja realmente deletar esse item?</h1>
 						<div className="deleteList__table">
 							<table>
 								<thead>
